@@ -3,6 +3,7 @@ function y = mod_sir(x,xdata)
 %  Paper: On an Alternative Susceptible-Infected-Removed Epidemic Model in Discrete-time
 %  Authors: Jorge A. Costa Jr.; Amanda C. Martinez; Jose C. Geromel
 %  Code developed on MATLAB Version R14, see [9]
+%  This program is a free software: you can redistribute it and/or modify it under the terms of the MIT license.
 
 M = xdata(1);
 nu = xdata(2);
