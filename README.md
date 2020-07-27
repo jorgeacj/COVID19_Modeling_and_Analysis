@@ -6,16 +6,6 @@ Authors: Jorge A. Costa Jr.; Amanda C. Martinez; Jose C. Geromel
 
 Code developed on MATLAB Version R14, see [9]
 
-## Index
-
-[Overview](#overview)
-
-[Citing](#citing)
-
-[Funding](#funding)
-
-[License](#license)
-
 ## Overview
 
 This paper presents a new probabilistic dynamic model of the SIR class that describes, with appropriate precision, the temporal behavior of epidemics in discrete-time. Determination of the set of invariance and convergence conditions towards equilibrium are established. For numerical analysis, data corresponding to the daily number of new diagnosed cases provided by the Brazilian Ministry of Health of COVID-19 epidemic that currently occurs in Brazil is used. Illustrations and model prediction analysis are provided and discussed from full data of Italy, a country where the epidemic has already ended. The same ideas used on the development of the proposed model formulated in discrete-time may be adopted for continuous-time modelling as well. Three different and complementary strategies for parameter identification using the daily data available are considered.
