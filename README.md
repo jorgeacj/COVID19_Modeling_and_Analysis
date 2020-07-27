@@ -22,6 +22,6 @@ This project was funded by [Brazilian National Council for Scientific and Techno
 
 This program is a free software: you can redistribute it and/or modify it under the terms of the MIT license.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the MIT License for more details (https://opensource.org/licenses/MIT).
+This program is distributed in the hope that it will be useful, but WITHOUT WARRANTY OF ANY KIND; without even the implied warranty of MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE and NONINFRINGEMENT. See the MIT License for more details (https://opensource.org/licenses/MIT).
     
 If you use this software in your research, please give appropriate credit by kindly citing us.
