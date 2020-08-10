@@ -4,7 +4,7 @@ Paper: On an Alternative Susceptible-Infected-Removed Epidemic Model in Discrete
 
 Authors: Jorge A. Costa Jr.; Amanda C. Martinez; Jose C. Geromel
 
-Code developed on MATLAB Version R14, see [9]
+Code developed on MATLAB Version R14.
 
 ## Overview
 
@@ -16,7 +16,7 @@ COSTA JR, J.A., MARTINEZ, A.C., GEROMEL, J.C. On an Alternative Susceptible-Infe
 
 ## Funding
 
-This project was funded by [Brazilian National Council for Scientific and Technological Development (CNPq)](http://www.cnpq.br/) and [UNINTER-International University Center](https://www.uninter.com/).
+This project was funded by [Brazilian National Council for Scientific and Technological Development (CNPq)](http://www.cnpq.br/).
 
 ## License
 
